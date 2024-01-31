@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289061108280",
+    "project_id": "public-project-react-native",
+    "storage_bucket": "public-project-react-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289061108280:android:317b40efb2003305e0c4cd",
+        "android_client_info": {
+          "package_name": "com.reactnativeproject140123"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWd0m5ikSXOEl5mSGzYKy-t9s5ZOe9BZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
